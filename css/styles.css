@@ -1,0 +1,30 @@
+#sheep {
+  color: turquoise;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Accents {
+  color: olivedrab;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#Honeymoon {
+  color: goldenrod;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+p{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  background-image: url("https://s23527.pcdn.co/wp-content/uploads/2018/06/new-zealand-50mm-12-1-745x419.jpg.optimal.jpg");
+  background-repeat: round;
+  background-size: cover;
+}
+
+.container {
+  opacity: 85%;
+}
